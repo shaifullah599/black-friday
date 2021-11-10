@@ -1,0 +1,73 @@
+.sec-1{
+
+background-color: #040001;
+padding-top: 50px;
+
+}
+
+
+
+.sec-1 img{width: 500px; height: 120px; margin: auto;}
+
+.txt-design h1{font-size: 300px; font-family: Poppins-Bold; color: white; text-transform: uppercase; }
+
+@media (max-width: 1100px) { 
+
+    .txt-design h1{font-size: 200px;}
+   
+ }
+
+ @media (max-width: 776px) { 
+
+    .txt-design h1{font-size: 150px;}
+   
+ }
+
+
+
+.txt-design h2{font-size: 273px; font-family: Poppins-Bold; color: white; text-transform: uppercase; padding-top: 0px; }
+
+@media (max-width: 1100px) { 
+
+    .txt-design h2{font-size: 200px;}
+   
+ }
+
+ @media (max-width: 776px) { 
+
+    .txt-design h2{font-size: 150px;}
+   
+ }
+
+
+
+.txt-design h3{font-size: 120px; font-family: Roboto-Light; color: #b2b5b4; text-transform: uppercase; padding-top: 50px;}
+
+.txt-design img{margin: auto; height: 20px; width: 250px; margin-top: 50px;}
+
+
+
+.txt-dgn-2{padding-bottom: 100px;}
+
+.txt-dgn-2 h1{font-size: 45px; color: white; text-transform: uppercase; margin-top: 100px;}
+
+.txt-dgn-2 h2{font-size: 52px; color: white; text-transform: uppercase; }
+
+.txt-dgn-2 p{font-size: 28px; color: white; text-transform: uppercase; margin-top: 70px;}
+
+.txt-dgn-2 span{ color: #b2b5b4; }
+
+.txt-dgn-2 h3{font-size: 29px; color: white; text-transform: uppercase; margin-top: 70px;}
+
+.txt-dgn-2 a{text-decoration: none; }
+
+.txt-dgn-2 button{font-size: 20px; color: white;  margin-top: 40px; 
+    background-color: #004dc1; color: white;   padding: 15px 30px; border-radius: 5px; border: 2px solid blue;
+
+}
+
+.txt-dgn-2 h4{font-size: 30px; color: white; text-transform: uppercase; margin-top: 70px; }
+
+
+.box-img img{width: 100%; height: auto;}
+
